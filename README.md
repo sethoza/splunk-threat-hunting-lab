@@ -57,7 +57,7 @@ While the bucket was public, two objects were uploaded:
 This is a classic cloud misconfiguration scenario. The investigation required pivoting between CloudTrail management events and S3 access logs, expanding nested JSON, and calculating impact from raw log values.
 
 Full write up available in the report:  
-Full write-up: [01 – AWS S3 Public Bucket Investigation](./labs/01-aws-s3-publicbucket.md)
+Full write-up: [01 – AWS S3 Public Bucket Investigation](./labs/01-aws-s3-public-bucket.md)
 
 ---
 
