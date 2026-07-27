@@ -25,7 +25,7 @@ I also used this lab to get more comfortable with Splunk SPL, reading nested Clo
 | Component  | Detail                               |
 | ---------- | ------------------------------------ |
 | SIEM       | Splunk Enterprise 10.4.1 (macOS)     |
-| License    | Splunk Developer License (10 GB)     |
+| License    | Splunk Developer License - Alwin Storm (10 GB)     |
 | Dataset    | Official BOTS v3 pre-indexed dataset |
 | Time range | All Time (August 2018 data only)     |
 
